@@ -1,0 +1,11 @@
+C:\Users\hosei\Desktop\vs\h1\h1\bin\Debug\h1.exe.config
+C:\Users\hosei\Desktop\vs\h1\h1\bin\Debug\h1.exe
+C:\Users\hosei\Desktop\vs\h1\h1\bin\Debug\h1.pdb
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.csproj.AssemblyReference.cache
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.Form1.resources
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.Properties.Resources.resources
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.csproj.GenerateResource.cache
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.csproj.CoreCompileInputs.cache
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.exe
+C:\Users\hosei\Desktop\vs\h1\h1\obj\Debug\h1.pdb
